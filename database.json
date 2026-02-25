@@ -1,0 +1,12 @@
+{
+    "goals": [],
+    "expenses": [
+        {
+            "amount": 4450.0,
+            "category": "allowance",
+            "date": "2026-02-25"
+        }
+    ],
+    "mood_log": [],
+    "learning_hours": 2
+}
